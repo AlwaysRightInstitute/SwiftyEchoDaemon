@@ -5,3 +5,7 @@ all :
 
 clean :
 	$(MAKE) -C Sources clean
+
+run :
+	$(MAKE) -C Sources run
+
