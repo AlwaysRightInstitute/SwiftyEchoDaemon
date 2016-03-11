@@ -61,3 +61,10 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+# Emacs backup
+*~
+
+# Swift Packages
+Packages
+
