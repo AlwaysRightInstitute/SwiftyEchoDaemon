@@ -1,1 +1,7 @@
-{"name":"SwiftyEchoDaemon","tagline":"The bezt Echo daemon written in Swift - SPM version","body":"SwiftyEchoDaemon\r\n================\r\n\r\nThe **bezt** Echo daemon ever written in Swift - SPM version.\r\n\r\nThis is a demo on how to use the\r\n[SwiftSockets Swift Package Manager version](https://github.com/AlwaysRightInstitute/SwiftSockets/tree/feature/linux)\r\non Linux or OSX.\r\n\r\nGreat echo server. Compile it via `make`, run it via `make run`, then\r\nconnect to it in the Terminal.app via ```telnet 1337```.\r\n\r\n![](http://i.imgur.com/mzXANTC.png)\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "SwiftyEchoDaemon",
+  "tagline": "The bezt Echo daemon written in Swift - SPM version",
+  "body": "SwiftyEchoDaemon\r\n================\r\n\r\nThe **bezt** Echo daemon ever written in Swift - SPM version.\r\n\r\nThis is a demo on how to use the\r\n[SwiftSockets Swift Package Manager version](https://github.com/AlwaysRightInstitute/SwiftSockets/tree/feature/linux)\r\non Linux or OSX.\r\n\r\nGreat echo server. Compile it via `make`, run it via `make run`, then\r\nconnect to it in the Terminal.app via ```nc localhost 1337```.\r\n\r\n![](http://i.imgur.com/mzXANTC.png)\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
