@@ -5,7 +5,7 @@ let package = Package(
   targets:      [],
   dependencies: [
     .Package(url: "https://github.com/AlwaysRightInstitute/SwiftSockets.git",
-             majorVersion: 0, minor: 20
+             majorVersion: 0, minor: 22
     )
   ]
 )
